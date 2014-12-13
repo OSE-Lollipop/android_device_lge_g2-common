@@ -147,3 +147,5 @@ TARGET_USES_LOGD := false
 TARGET_SPECIFIC_HEADER_PATH := device/lge/g2-common/include
 
 BOARD_USES_LEGACY_MMAP := true
+
+OSE_OPTIMIZE=true
